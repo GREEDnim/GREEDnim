@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GREEDnim</h1>
+<h1 align="center">Hi 👋, I'm Sivadhas</h1>
 <h3 align="center">A passionate learner/developer from India</h3>
 
 - 🌱 I’m currently learning **backend (express) and dsa**
