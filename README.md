@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sivadhas</h1>
 <h3 align="center">A passionate learner/developer from India</h3>
 
-- 🌱 I’m currently learning **backend (express) and dsa**
+- 🌱 I’m currently learning **backend dev and dsa**
 
 - 👯 I’m looking to collaborate on **web development.**
 
