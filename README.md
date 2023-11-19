@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sivadhas</h1>
 <h3 align="center">A passionate learner/developer from India</h3>
 
-- 🌱 I’m currently exploring **web dev and dsa**
+- 🌱 I’m currently exploring **web development**
 
 - 👯 I’m looking to collaborate on **web development.**
 
-- ⚡ Fun fact **I watch anime.**
+- ⚡ Fun fact **I do dsa.**
 
 
 
