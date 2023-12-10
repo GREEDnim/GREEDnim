@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sivadhas</h1>
-<h3 align="center">A passionate learner/developer from India</h3>
+<h2 align="center">Hi 👋, I'm Sivadhas</h2>
+<h4 align="center"> A passionate learner / developer from India </h4>
 
-- 🌱 I’m currently exploring **web development**
+- 🌱 I’m currently exploring **DSA & MERN stack**
 
-- 👯 I’m looking to collaborate on **web development.**
-
-- ⚡ Fun fact **I do dsa.**
+- 👯 I’m looking to collaborate on **react and node projects**
 
 
 
