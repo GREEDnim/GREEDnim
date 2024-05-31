@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greednim&show_icons=true&locale=en" alt="greednim" /></p>
 
- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/GREEDnim/GREEDnim/output/github-contribution-grid-snake.svg" />
+ <img alt="GitHub Snake" src="https://raw.githubusercontent.com/GREEDnim/GREEDnim/output/github-contribution-grid-snake-dark.svg" />
