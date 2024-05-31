@@ -13,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greednim&show_icons=true&locale=en&layout=compact" alt="greednim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greednim&show_icons=true&locale=en" alt="greednim" /></p>
+
+ ![Snake animation](https://github.com/GREEDnim/GREEDnim/blob/output/github-contribution-grid-snake.svg)
