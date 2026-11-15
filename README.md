@@ -1,30 +1,37 @@
 <div align="center">
-<h2 align="center">Hi 👋, I'm Sivadhas</h2>
-<h3 align="center"> A passionate learner / developer from India </h3>
 
+# Sivadhas S
 
+**Backend developer — Java and Spring for the hard problems, JavaScript when I want to
+ship something fun.**
 
-<img align="center" width="40%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+*life is not daijobu :)*
 
+</div>
 
-<h3 align="left">About :</h3>
-<p align="left"> 🌱 I’m currently exploring <b>DSA & MERN stack</b></p>
-<p align="left"> 👯 I’m looking forward to collaborate on <b>MERN projects</b></p>
-<h3 align="left">Trophies :</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greednim" alt="greednim" /></a> </p>
+---
 
+### What I'm building
 
-<h3 align="left">Languages and Tools :</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+| Project | What it is |
+| :-- | :-- |
+| [**rate-limiter-lab**](https://github.com/GREEDnim/rate-limiter-lab) | A Java 21 + JUnit 5 lab where every rate limiting algorithm — fixed window through GCRA — is its own problem, with acceptance tests as the spec. |
+| [**linkedin-system**](https://github.com/GREEDnim/linkedin-system) | Six Spring Boot services wired together with Kafka, Redis timelines, Elasticsearch indexing, and a gateway that owns auth. |
+| [**packmen**](https://packmen.io/) | A real-time multiplayer maze chase, playable in the browser by 1–8 players. Source is private; the game isn't. |
 
-<h3 align="left">Statistics :</h3>
-<p  align="center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=greednim&show_icons=true&locale=en&layout=compact" alt="greednim" width="25%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=greednim&" alt="greednim" width="35%" />
-<img  src="https://github-readme-stats.vercel.app/api?username=greednim&show_icons=true&locale=en" alt="greednim" width="35%" />
-</p>
+### Things I reach for
 
-<hr>
- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/GREEDnim/GREEDnim/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+<sub>Older side quests still live here too — a chess game, an Etch-A-Sketch, some MERN apps, and a pile
+of algorithm practice from years past. Ask me about rate limiting, event-driven design, or why Pac-Man
+still holds up.</sub>
