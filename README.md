@@ -5,8 +5,6 @@
 **Backend developer — Java and Spring for the hard problems, JavaScript when I want to
 ship something fun.**
 
-*life is not daijobu :)*
-
 </div>
 
 ---
